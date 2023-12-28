@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/surajmali24032/Kidney-Disease-Classification-DP.git
+https://github.com/surajmali24032/Kidney-Disease-Classification-DL.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
